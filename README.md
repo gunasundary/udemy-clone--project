@@ -1,4 +1,4 @@
-# udemy-clone--project# Udemy Clone Website
+# Udemy Clone Website
 
 This is a simple **Udemy clone website** created using only **HTML and CSS**.  
 The project focuses on replicating the layout and design of an online learning platform, including course sections, navigation bar, banners, and responsive structure.
